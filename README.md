@@ -9,7 +9,7 @@ Just some algorithms and functions used in programming contests.
 
 # Content
 
-## Graphs
+#### Graphs
 
 * [BFS](https://github.com/EduardoRotundaro/competitive-programming/blob/master/src/bfs/BFS.cpp)
 * [DFS](https://github.com/EduardoRotundaro/competitive-programming/blob/master/src/dfs/DFS.cpp)
