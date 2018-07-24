@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/EduardoRotundaro/Competitive-Programming/master/Readme/rm_img.png)
+![](https://raw.githubusercontent.com/EduardoRotundaro/competitive-programming/master/Readme/rm_image.png)
 
 ---
 
